@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,900&display=swap');
+
+.counterContainer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 84px;
+    color: #37474F;
+    text-align: center;
+}
+
+.counterButton {
+    background: #5E19F5;
+    border: 1px solid #979797;
+    border-radius: 8px;
+    font-family: Roboto-Regular;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    cursor: pointer;
+}
